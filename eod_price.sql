@@ -1,5 +1,4 @@
-USE `DW`;
-CREATE  OR REPLACE VIEW `eod_price` AS
+CREATE VIEW `eod_price` AS
 (SELECT main.tradeday, main.ticker, open, high, low, close, adj, volume, dividend, split
   FROM DW.eod_price_archive AS main
  INNER JOIN 
