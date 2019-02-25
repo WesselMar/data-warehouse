@@ -10,6 +10,8 @@ pylint = "<2.0.0"
 pandas = "*"
 sqlalchemy = "*"
 pyyaml = ">=4.2b1"
+pymysql = "*"
+opat = "*"
 
 [requires]
 python_version = "3.7"
