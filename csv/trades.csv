@@ -51,3 +51,4 @@ tradeday,account,ticker,action,price,quantity
 2019-03-20,XLIN01,PEP,Sell,119.00,6
 2019-04-03,XLIN01,SPOT,Sell,145.50,7
 2019-06-14,XLIN01,APRN,Sell,0.5501,10
+2019-08-01,XLIN02,COST,Buy,279.53,15
